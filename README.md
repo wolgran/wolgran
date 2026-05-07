@@ -24,21 +24,21 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 - <img src="https://github.com/user-attachments/assets/82916816-9d67-41dd-b734-6f94bfc96559" height="30" alt="java logo" />
-
+  <img width="12" />
 
 **Interface e Frontend**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
 **Ferramentas**
-- <img src="https://github.com/user-attachments/assets/3d717f06-ef62-45e5-83a4-fb22c41bf3b5"
- height="30" alt="github logo"  />
-- <img src="https://github.com/user-attachments/assets/6b0c24ec-35e1-4e3d-9200-cc2f48a67011" height="30" alt="git logo" />
-
+- <img src="https://github.com/user-attachments/assets/3d717f06-ef62-45e5-83a4-fb22c41bf3b5" height="30" alt="github logo"  />
+  <img width="12" />
+- <img src="https://github.com/user-attachments/assets/6b0c24ec-35e1-4e3d-9200-cc2f48a67011" height="30" alt="git logo"  />
+  <img width="12" />
 
 ---
+
 *"A tecnologia é a ferramenta, a solução do problema é o objetivo."*
