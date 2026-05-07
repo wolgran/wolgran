@@ -37,7 +37,7 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 **Ferramentas**
 - <img src="https://github.com/user-attachments/assets/3d717f06-ef62-45e5-83a4-fb22c41bf3b5"
  height="30" alt="github logo"  />
-- <img src="https://github.com/user-attachments/assets/786064de-2c7f-461d-ae4c-2c91d470857e" height="30" alt="git logo" />
+- <img src="https://github.com/user-attachments/assets/6b0c24ec-35e1-4e3d-9200-cc2f48a67011" height="30" alt="git logo" />
 
 
 ---
