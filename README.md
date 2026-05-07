@@ -34,7 +34,8 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
   <img width="12" />
 
 **Ferramentas**
-- <img src="https://skillicons.dev/icons?i=all" height="30" alt="github logo"  /> **Git & GitHub**
+- <img src="https://github.com/user-attachments/assets/3d717f06-ef62-45e5-83a4-fb22c41bf3b5"
+ height="30" alt="github logo"  /> **Git & GitHub**
 -  **Vercel**
 
 
