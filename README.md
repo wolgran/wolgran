@@ -18,21 +18,16 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 
 ---
 
-### 🧪 Toolbox Tecnológica
+### 🧪 Caixa de Ferramentas Tecnológica
 
-**Linguagens & Backend**
-![Python](https://shields.io)
-![Java](https://shields.io)
-![SQL](https://shields.io)
+**Linguagens & Backend**  
+![Python](https://shields.io) ![Java](https://shields.io) ![SQL](https://shields.io)
 
-**Frontend & Interface**
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+**Interface & Frontend**  
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
 
-**Ferramentas**
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+**Ferramentas**  
+![Git](https://shields.io) ![GitHub](https://shields.io)
 
 ---
 
