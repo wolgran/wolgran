@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Wolgran! 👋
 
-### 🌾 Especialista em Qualidade (Grãos) | 💻 Desenvolvedor em Formação | 🚀 Transformando Processos Industriais
+### 🌾 Especialista em Qualidade (Grãos) | 💻 Desenvolvedor em Formação | 🚀 Transformando Processos
 
 Com 9 anos de experiência no setor de grãos, atuo na linha de frente da qualidade na **Salso Agroserviços**, empresa parceira e prestadora de serviços para a **AMBEV**. Atualmente, curso **Sistemas para Internet na UNIESP**, utilizando a tecnologia para elevar o padrão de excelência operacional da indústria.
 
