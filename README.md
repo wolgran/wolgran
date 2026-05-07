@@ -2,11 +2,11 @@
 
 ### 🌾 Especialista em Qualidade (Grãos) | 💻 Desenvolvedor em Formação | 🚀 Transformando Processos
 
-Com 9 anos de experiência no setor de grãos, atuo na linha de frente da qualidade na **Salso Agroserviços**, empresa parceira e prestadora de serviços para a **AMBEV**. Atualmente, curso **Sistemas para Internet na UNIESP**, utilizando a tecnologia para elevar o padrão de excelência operacional da indústria.
+Com 9 anos de experiência no setor de grãos, atuo na linha de frente da qualidade na **Salso Agroserviços**, empresa parceira e prestadora de serviços para a **AMBEV**. Atualmente, curso **Sistemas para Internet na UNIESP**, utilizando a tecnologia para elevar o padrão de excelência operacional.
 
 ---
 
-### 🛠️ Projetos em Desenvolvimento (Impacto Real)
+### 🛠️ Projetos em Desenvolvimento 
 
 Atualmente, estou desenvolvendo a transformação digital de processos analógicos em digitais:
 
@@ -23,7 +23,8 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 **Linguagens e Backend**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
--  **Java**
+- <img src="https://github.com/user-attachments/assets/82916816-9d67-41dd-b734-6f94bfc96559" height="30" alt="java logo" />
+
 
 **Interface e Frontend**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -35,8 +36,8 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 
 **Ferramentas**
 - <img src="https://github.com/user-attachments/assets/3d717f06-ef62-45e5-83a4-fb22c41bf3b5"
- height="30" alt="github logo"  /> **Git & GitHub**
--  **Vercel**
+ height="30" alt="github logo"  />
+- <img src="https://github.com/user-attachments/assets/786064de-2c7f-461d-ae4c-2c91d470857e" height="30" alt="git logo" />
 
 
 ---
