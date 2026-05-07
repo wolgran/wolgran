@@ -20,19 +20,18 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 
 ### 🧪 Caixa de Ferramentas Tecnológica
 
-**Linguagens & Backend**  
-![Python](https://shields.io) ![Java](https://shields.io) ![SQL](https://shields.io)
+**Linguagens e Backend**
+-  **Python**
+-  **Java**
 
-**Interface & Frontend**  
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
+**Interface e Frontend**
+-  **HTML5 / CSS3**
+-  **JavaScript**
 
-**Ferramentas**  
-![Git](https://shields.io) ![GitHub](https://shields.io)
+**Ferramentas**
+-  **Git & GitHub**
+-  **Vercel**
 
----
-
-### 📈 Estatísticas
-![Estatísticas do GitHub](https://vercel.app)
 
 ---
 *"A tecnologia é a ferramenta, a solução do problema é o objetivo."*
