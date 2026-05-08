@@ -12,7 +12,6 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 
 - **📊 Dashboard de Qualidade (Foco AMBEV):** Centralização e visualização de indicadores críticos de qualidade de grãos para suporte à tomada de decisão.
 - 🛠️ *Stack:* Desenvolvido com Lovable, versionado no GitHub e deploy via **Vercel**.
-- 🔗 [**Ver Projeto Online**](https://insight-dashboard-smoky.vercel.app/) 🚀
 - **📋 Sistema de Check-list & Inspeção:** Automação de auditorias técnicas e inspeções de limpeza, garantindo conformidade rigorosa com os padrões da indústria de bebidas.
 - **📚 Evolução Acadêmica:** Aplicando conceitos de arquitetura web e bancos de dados em problemas reais do setor de logística e grãos.
 
