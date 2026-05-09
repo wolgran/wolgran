@@ -12,14 +12,19 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 
 - **📊 Dashboard de Qualidade (Foco AMBEV):** Centralização e visualização de indicadores críticos de qualidade de grãos para suporte à tomada de decisão.
 - 🛠️ *Stack:* Desenvolvido com Lovable, versionado no GitHub e deploy via **Vercel**.
- <img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/6d127b89-1264-4bb9-8531-41e951eaa56e" />
+ <img width="510" height="320" alt="image" src="https://github.com/user-attachments/assets/6d127b89-1264-4bb9-8531-41e951eaa56e" />
 
 - **📋 Sistema de Check-list & Inspeção:** Automação de auditorias técnicas e inspeções de limpeza, garantindo conformidade rigorosa com os padrões da indústria de bebidas.
+<img width="531" height="228" alt="image" src="https://github.com/user-attachments/assets/d9bf6ce5-8d1b-43ab-ab38-0601ea9adbe9" />
+
+
 - **📚 Evolução Acadêmica:** Aplicando conceitos de arquitetura web e bancos de dados em problemas reais do setor de logística e grãos.
 
 ---
 
 ### 🧪 Caixa de Ferramentas Tecnológica
+
+### 📚 Aprendendo no Momento
 
 **Linguagens e Backend**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -33,6 +38,7 @@ Atualmente, estou desenvolvendo a transformação digital de processos analógic
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+
 
 **Ferramentas**
 - <img src="https://github.com/user-attachments/assets/3d717f06-ef62-45e5-83a4-fb22c41bf3b5" height="30" alt="github logo"  />
